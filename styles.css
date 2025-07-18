@@ -9,8 +9,10 @@ body {
 header {
     background: #eff7cf;
     color: #17183b;
+    max-width: 800px;
     padding: 20px;
     text-align: center;
+    border-bottom: 2px solid #b02e0c;
 }
 nav ul {
     list-style: none;
