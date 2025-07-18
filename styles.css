@@ -1,7 +1,8 @@
 body {
     font-family: Courier New, monospace;
-    margin: 0;
-    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
     color: #17183b;
     background-color: #eff7cf;
 }
