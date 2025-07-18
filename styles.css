@@ -2,11 +2,11 @@ body {
     font-family: Courier New, monospace;
     margin: 0;
     padding: 0;
-    background-color: #efdd8d;
+    background-color: #eff7cf;
 }
 header {
-    background: #65743A;
-    color: #fff;
+    background: #eff7cf;
+    color: #000;
     padding: 20px;
     text-align: center;
 }
@@ -19,12 +19,12 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 section {
     padding: 20px;
     margin: 20px;
-    background: #fff;
+    background: #eff7cf;
     border-radius: 5px;
 }
