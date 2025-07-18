@@ -6,7 +6,7 @@ body {
 }
 header {
     background: #eff7cf;
-    color: #000;
+    color: #17183b;
     padding: 20px;
     text-align: center;
 }
@@ -19,7 +19,7 @@ nav ul li {
     margin: 0 15px;
 }
 nav ul li a {
-    color: #000;
+    color: #17183b;
     text-decoration: none;
 }
 section {
